@@ -1,4 +1,4 @@
-# Doughnut Chart / Conut Chart Prototype Example
+# Donut Chart / Doughnut Chart Prototype Example
 
 This is a SVG doughtnut/donut chart example/prototype built with Rust WebAssembly. It uses wasm-bindgen and web-sys. The code is layout in a single function in an easy to understand manner. The aim is to use this example as a basis to build a full-fledge Rust WebAssembly donut chart web component. 
 
