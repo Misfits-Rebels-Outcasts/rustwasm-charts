@@ -5,4 +5,6 @@ For now, please go to the specific folders to see how to build the charts indivi
 
 Donut Chart Prototype Example
 
+![Rust WebAssembly Donut Chart](https://barcoderesource.com/rustwasm/RustWebAssemblyDonutChart.png)
+
 https://www.webassemblyman.com/rustwasm/rustwasm_svg_donut_chart_webcomponent.html
